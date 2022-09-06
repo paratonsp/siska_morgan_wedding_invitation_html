@@ -29883,7 +29883,7 @@ vb(a){return A.C_(new A.nl("Paste is not implemented for this browser."),null,t.
 A.ee.prototype={
 gxx(a){var s=this.a
 s=s==null?null:J.aQ6(s)
-return s==null?"https://siskadanmorgan.site/":s},
+return s==null?"https://siskadanmorgan.site/canvaskit/":s},
 gxy(a){var s=this.a
 s=s==null?null:J.aQ7(s)
 return s==null?!1:s},
