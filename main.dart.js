@@ -29867,7 +29867,7 @@ vb(a){return A.BZ(new A.nl("Paste is not implemented for this browser."),null,t.
 A.ee.prototype={
 gxw(a){var s=this.a
 s=s==null?null:J.aQ0(s)
-return s==null?"https://unpkg.com/canvaskit-wasm@0.33.0/bin/":s},
+return s==null?"https://siskadanmorgan.site/canvaskit/":s},
 gxx(a){var s=this.a
 s=s==null?null:J.aQ1(s)
 return s==null?!1:s},
